@@ -24,11 +24,11 @@ module Cucumber
         end
 
         def before_js
-          @strategy.before_js
+          #@strategy.before_js
         end
 
         def before_non_js
-          @strategy.before_non_js
+          #@strategy.before_non_js
         end
 
       private
